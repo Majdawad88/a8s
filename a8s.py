@@ -1,4 +1,4 @@
-#git clone 
+#git clone https://github.com/Majdawad88/a8s.git
 
 import tkinter as tk
 import serial
